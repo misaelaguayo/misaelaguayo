@@ -9,8 +9,6 @@ My name is Misael, this is a general overview of the projects I'm working on. I 
 #### Top 1% on tryyhackme.com
 <img src="https://tryhackme-badges.s3.amazonaws.com/irishyogashirt.png" alt="TryHackMe">
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Creating a new language
 - 🌱 I’m currently learning ... Language creation
 - 📫 How to reach me: aguayo.misael@gmail.com
